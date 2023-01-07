@@ -1,6 +1,8 @@
-<?php include 'header.php' ?>
-<?php include 'banner.php' ?>
-<?php include 'navigator.php' ?>
+<?php 
+  include "header.php";
+  include "banner.php";
+  include "navigator.php";
+?>
 
 <!--<div class="container mt-5">
   <div class="row">
@@ -14,7 +16,9 @@
   </div>
 </div>-->
 
-<?php include 'footer.php' ?>
+<?php 
+  include "footer.php";
+?>
 </div>
 </body>
 

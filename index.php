@@ -1,5 +1,10 @@
-<?php include 'header.php' ?>
-<?php include 'banner.php' ?>
-<?php include 'navigator.php' ?>
-<?php include 'connect.php' ?>
-<?php include 'footer.php' ?>
+<?php 
+include "header.php";
+include "banner.php";
+include "navigator.php";
+include "connect.php";
+?>
+<div class = "container mt - 5">
+    <h1>Page Index</h1>
+</div>
+<?php include "footer.php"; ?>

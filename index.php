@@ -6,6 +6,7 @@
 ?>
     <div class = "container mt - 5">
         <h1>Page Index</h1>
+        <h1>Page For Server</h1>
     </div>
 <?php 
     include "footer.php"; 

@@ -4,7 +4,7 @@
     include "navigator.php";
     include "connect.php";
 ?>
-    <div class = "container mt - 5">
+    <div class = "container mt - 4">
         <h1>Page Index</h1>
         <h1>Page For Server</h1>
     </div>
